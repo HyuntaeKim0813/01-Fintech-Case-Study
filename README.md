@@ -1,4 +1,4 @@
-##Acorns Case Study-HTK
+## Acorns Case Study-HTK
 
 ## Overview and Origin
 
